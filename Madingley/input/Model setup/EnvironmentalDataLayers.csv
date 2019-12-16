@@ -1,0 +1,11 @@
+Folder,Filename,Extension,Dataset Name,Filetype,Internal Layer Name,Static,Resolution,Units
+input,cru20,.nc,pre,nc,Precipitation,Y,month,mm
+input,cru20,.nc,frs,nc,FrostDays,Y,month,
+input,cru20,.nc,tmp,nc,Temperature,Y,month,degC
+input,cru20,.nc,dtr,nc,LandDTR,Y,month,degC
+input,NPP,.nc,NPP,nc,LandNPP,Y,month,gC/m2/day
+input,NPP_orig,.nc,NPP_1,nc,NPP_1,Y,month,gC/m2/day
+input,NPP_orig,.nc,NPP_2,nc,NPP_2,Y,month,gC/m2/day
+input,AvailableWaterCapacity,.nc,AWC,nc,AWC,Y,year,mm
+input,LandSeaMask,.nc,land_sea_mask,nc,LandSeaMask,Y,year,
+input,HANPP,.nc,HANPP,nc,HANPP,Y,year,gC/m2/year
