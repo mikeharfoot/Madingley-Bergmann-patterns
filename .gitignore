@@ -1,0 +1,17 @@
+
+/Madingley/bin
+/Madingley/obj
+/Madingley.suo
+/Madingley.user
+/Madingley.v11.suo
+/UnitTests/bin
+/UnitTests/obj
+/IntegratedTests/bin
+/IntegratedTests/obj
+/IntegratedTests
+/Madingley/input/mean_temp.nc
+/Madingley/input/NPP.nv
+/Madingley/input/OceanNPP.nc
+/Madingley/input/Data/Original/Land/cru20.nc
+/IntegratedTests
+/Unit tests
